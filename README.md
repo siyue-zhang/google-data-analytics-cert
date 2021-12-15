@@ -7,5 +7,5 @@ Coursera Notebook
 
 ## Data type
 
-Nominal data: a type of qualitative data that is categorized without a set order, e.g. yes/ no/ not sure
-Ordinal data: a type of qualitative data with a set order or scale, e.g. rank 1-5
+* Nominal data: a type of qualitative data that is categorized without a set order, e.g. yes/ no/ not sure
+* Ordinal data: a type of qualitative data with a set order or scale, e.g. rank 1-5
