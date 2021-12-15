@@ -9,3 +9,13 @@ Coursera Notebook
 
 * Nominal data: a type of qualitative data that is categorized without a set order, e.g. yes/ no/ not sure
 * Ordinal data: a type of qualitative data with a set order or scale, e.g. rank 1-5
+
+## Data transformation usually involves:
+
+* Adding, copying, or replicating data
+* Deleting fields or records 
+* Standardizing the names of variables
+* Renaming, moving, or combining columns in a database
+* Joining one set of data with another
+* Saving a file in a different format. For example, saving a spreadsheet as a comma separated values (CSV) file.
+
