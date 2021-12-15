@@ -27,3 +27,11 @@ Coursera Notebook
 * Currency: individuals should be aware of financial transactions resulting from the use of their personal data and the scale of transactions
 * Privacy: preserving a data subject's information and activity any time a data transaction occurs (access, use, collection of data)
 * Openness: free access, usage, and sharing of data
+
+## Keys in database
+
+Primary key: unique identifier in the table
+
+Foreign key: a field within a table that is a primary key in another table
+
+
