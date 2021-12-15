@@ -34,4 +34,25 @@ Primary key: unique identifier in the table
 
 Foreign key: a field within a table that is a primary key in another table
 
+## Data collection
+
+First-party data: data colleccted by an individual or group using their own resources
+
+Second-party data: collected by a group directly from its audience and then sold
+
+Third-party data: collected from outside sources who did not collect it directly
+
+## Sample size
+
+* Don't use a sample size less than 30. It has been statistically proven that 30 is the smallest sample size where an average result of a sample starts to represent the average result of a population.
+
+* The confidence level most commonly used is 95%, but 90% can work in some cases. 
+
+## Statistical significance
+
+The determination of whether your result could be due to random chance or not. The greater the significance, the less due to chance.
+
+## Confidence interval
+
+The range of possible values that the population’s result would be at the confidence level of the study. This range is the sample result +/- the margin of error.
 
