@@ -19,3 +19,11 @@ Coursera Notebook
 * Joining one set of data with another
 * Saving a file in a different format. For example, saving a spreadsheet as a comma separated values (CSV) file.
 
+## Data ethics
+
+* Ownership: individuals own the raw data they provide and they have primary control over its usage
+* Transcation transparency: all data-processsing activities and algorithms should be completely explainable and understood by individual who provides data
+* Consent: an individual's right to know how and why their data will be used before agreeing to provide it
+* Currency: individuals should be aware of financial transactions resulting from the use of their personal data and the scale of transactions
+* Privacy: preserving a data subject's information and activity any time a data transaction occurs (access, use, collection of data)
+* Openness: free access, usage, and sharing of data
