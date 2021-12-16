@@ -60,6 +60,12 @@ The range of possible values that the population’s result would be at the conf
 
 The process of matching fields from one data source to another. e.g. China <--> CN
 
+## Subquery
+
+A SQL query that is nested inside a larger query. Inner most query excute first.
+
+Common to see in FROM and WHERE statements.
+
 
 
 
