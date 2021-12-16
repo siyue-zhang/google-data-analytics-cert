@@ -56,3 +56,10 @@ The determination of whether your result could be due to random chance or not. T
 
 The range of possible values that the population’s result would be at the confidence level of the study. This range is the sample result +/- the margin of error.
 
+## Data mapping
+
+The process of matching fields from one data source to another. e.g. China <--> CN
+
+
+
+
