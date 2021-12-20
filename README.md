@@ -5,6 +5,12 @@ Coursera Notebook
 
 [Cyclistic bike-share analysis](https://github.com/siyue-zhang/google-data-analytics-cert/blob/master/capstone%20project/README.md)
 
+In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
+
+The public data for Divvy Bikes has been made available by Motivate International Inc under this [license](https://ride.divvybikes.com/data-license-agreement).
+
+![divvy](https://media.istockphoto.com/photos/chicago-bike-sharing-picture-id638899106?k=20&m=638899106&s=612x612&w=0&h=P-3Qdwpd9bt771dbjNy_K9q7q1xLuzO4uD_3xT_G5HY=)
+
 ## Craft effective questions
 
 ![smart](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/YFin0nVBQQyYp9J1QfEMPA_5938fab12a0e4b76a479cef2a8fb4af1_Screen-Shot-2021-06-24-at-1.23.25-PM.png?expiry=1639699200000&hmac=gT-PSyor2khXXAD4UamI4Y4mM4NxWx9YNG5cQz9-CXs)
