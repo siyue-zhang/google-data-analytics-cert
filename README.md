@@ -3,7 +3,7 @@ Coursera Notebook
 
 ## Data analytic project
 
-[Bike-share study]()
+[Cyclistic bike-share analysis](https://github.com/siyue-zhang/google-data-analytics-cert/blob/master/capstone%20project/README.md)
 
 ## Craft effective questions
 
