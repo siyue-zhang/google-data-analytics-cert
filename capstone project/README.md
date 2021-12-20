@@ -32,7 +32,7 @@ Classic bikes were mostly used by member riders and casual riders, which took up
 
 ![p2](https://github.com/siyue-zhang/google-data-analytics-cert/blob/master/capstone%20project/images/ride_type.png)
 
-The largest amount of trips took below 10 minutes for member rider. The amounts of trip with less than 10 minutes and between 10 and 20 minutes were equally high for casual rider. Long trips above 30 minutes were much more popular for casual rider. 
+The largest amount of trips taken by member rider were below 10 minutes. The amounts of trip with less than 10 minutes and between 10 and 20 minutes were equally high for casual rider. Long trips above 30 minutes were much more popular for casual rider. 
 
 ![p3](https://github.com/siyue-zhang/google-data-analytics-cert/blob/master/capstone%20project/images/duration.png)
 
