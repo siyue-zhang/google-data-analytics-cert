@@ -66,6 +66,13 @@ A SQL query that is nested inside a larger query. Inner most query excute first.
 
 Common to see in FROM and WHERE statements.
 
+## ROCCC Data
+
+* Reliable
+* Original
+* Comprehensive
+* Current
+* Cited
 
 
 
