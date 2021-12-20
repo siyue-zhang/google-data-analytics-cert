@@ -16,6 +16,10 @@ How do annual members and casual riders use Cyclistic bikes differently?
 
 After cleaning, there are 5,478,022 valid trip records, where the longest trip lasts 38 days. 
 
+## Tools
+
+Python numpy, pandas, matplotlib, seaborn
+
 ## Analysis summary
 
 Among 5.5 million trips, the annual membership customer takes up 55% while the casual customer takes up the rest 45%. Casual riders tends to take longer trips than member riders, arounds two times of duration in average. Provided with mile charge information, the cost saving by subscribing memership can be estimated for the long trip riders.
@@ -26,9 +30,11 @@ Classic bikes were mostly used by member riders and casual riders, which took up
 
 ![p2](https://github.com/siyue-zhang/google-data-analytics-cert/blob/master/capstone%20project/images/ride_type.png)
 
-
+The largest amount of trips took below 10 minutes for member rider. The amounts of trip with less than 10 minutes and between 10 and 20 minutes were equally high for casual rider. Long trips above 30 minutes were much more popular for casual rider. 
 
 ![p3](https://github.com/siyue-zhang/google-data-analytics-cert/blob/master/capstone%20project/images/duration.png)
+
+There were high demand of cycling service from June to September for both member rider and casual rider. The demand of casual rider decreased more rapidly than that of member rider. The membership conversion campeign could be carried out during the peak season when riders have more frequent need of bikes. 
 
 ![p4](https://github.com/siyue-zhang/google-data-analytics-cert/blob/master/capstone%20project/images/monthly.png)
 
