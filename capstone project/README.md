@@ -4,7 +4,7 @@
 
 ## Scenario
 
-As a data analyst in the company, I'm working with the director of marketing who believes the company’s future success depends on maximizing the number of annual memberships. My team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, the team will design a new marketing strategy to convert casual riders into annual members.
+As a data analyst in the company, I'm working with the director of marketing who believes the company’s future success depends on maximizing the number of annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members. My team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, the team will design a new marketing strategy to convert casual riders into annual members.
 
 ## Goal
 
@@ -45,3 +45,7 @@ Rides were evenly distributed among days in a week for member rider. Casual ride
 Among all weekdays, casual rider took longer trips than member rider. The longest average trip duration was on Sunday. Unlimited time of bike use would be an attractive membership feature for casual rider.
 
 ![p6](https://github.com/siyue-zhang/google-data-analytics-cert/blob/master/capstone%20project/images/weekday_duration.png)
+
+## Conclusion and strategy
+
+Casual customers take as many trips as member customers
