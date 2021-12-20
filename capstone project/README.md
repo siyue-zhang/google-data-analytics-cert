@@ -48,4 +48,15 @@ Among all weekdays, casual rider took longer trips than member rider. The longes
 
 ## Conclusion and strategy
 
-Casual customers take as many trips as member customers
+* Although casual riders take slightly less trips than member riders, casual riders spend much longer time during trips. 
+* Member riders take more trips below 10 minutes while casual riders take more trips above 20 minutes. 
+* The summer (from June to September) is the peak season for both member and casual riders.
+* Casual riders take more trips during weekend while member riders take trips equally everyday.
+
+To acctract casual riders to subscribe annual memership, the marketing campeign could be conducted between **May and June** when the customer starts to ride bike frequently and foresees the close future demand of bike service. 
+
+The marketing campeign should promote the membership program's privileges on **weekend use**, **long trip**, and **leisure trip**. For example, the member could be given the right to reserve bikes during weekends, discounted price for long distance, family member sharing option and so on. 
+
+The **tariff scheme** should allow the subscription fee to be lower than the total fee of a certain number of long duration trips. If the customer data is provided, the specific casual customers could be further analyzed and targeted.
+
+
