@@ -7,7 +7,9 @@ Coursera Notebook
 
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
 
-The public data for Divvy Bikes has been made available by Motivate International Inc under this [license](https://ride.divvybikes.com/data-license-agreement).
+The public data for Divvy Bikes has been made available by Motivate International Inc under this [license](https://ride.divvybikes.com/data-license-agreement). To preserve the data privacy, the customer data is not provided in this trip dataset. This means that it's possible to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
+
+This project aims to better understand how annual members and casual riders differ, so that the company could make effective markerting strategies and campaigns to convert casual riders to annual memberships.
 
 ![divvy](https://media.istockphoto.com/photos/chicago-bike-sharing-picture-id638899106?k=20&m=638899106&s=612x612&w=0&h=P-3Qdwpd9bt771dbjNy_K9q7q1xLuzO4uD_3xT_G5HY=)
 
