@@ -18,9 +18,15 @@ After cleaning, there are 5,478,022 valid trip records, where the longest trip l
 
 ## Analysis summary
 
+Among 5.5 million trips, the annual membership customer takes up 55% while the casual customer takes up the rest 45%. Casual riders tends to take longer trips than member riders, arounds two times of duration in average. Provided with mile charge information, the cost saving by subscribing memership can be estimated for the long trip riders.
+
 ![p1](https://github.com/siyue-zhang/google-data-analytics-cert/blob/master/capstone%20project/images/member_casual.png)
 
+Classic bikes were mostly used by member riders and casual riders, which took up 66% and 51% respectively. Almost none of member riders chose the docked bike while the 13% of casual riders used the docked bike. 
+
 ![p2](https://github.com/siyue-zhang/google-data-analytics-cert/blob/master/capstone%20project/images/ride_type.png)
+
+
 
 ![p3](https://github.com/siyue-zhang/google-data-analytics-cert/blob/master/capstone%20project/images/duration.png)
 
