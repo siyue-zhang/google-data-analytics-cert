@@ -38,6 +38,10 @@ There were high demand of cycling service from June to September for both member
 
 ![p4](https://github.com/siyue-zhang/google-data-analytics-cert/blob/master/capstone%20project/images/monthly.png)
 
+Rides were evenly distributed among days in a week for member rider. Casual rider used more bikes during Saturday and Sunday. The leisure use of bike was more significant for casual rider. To convince casual customers to subscribe annual membership, we could emphasize on the benefit of free long trips during weekends in membership program.
+
 ![p5](https://github.com/siyue-zhang/google-data-analytics-cert/blob/master/capstone%20project/images/weekday.png)
+
+Among all weekdays, casual rider took longer trips than member rider. The longest average trip duration was on Sunday. Unlimited time of bike use would be an attractive membership feature for casual rider.
 
 ![p6](https://github.com/siyue-zhang/google-data-analytics-cert/blob/master/capstone%20project/images/weekday_duration.png)
