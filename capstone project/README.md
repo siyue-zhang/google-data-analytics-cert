@@ -5,7 +5,7 @@
 - [Dataset](#dataset)
 - [Tools](#tools)
 - [Analysis summary](#analysis-summary)
-- [Conclusion and strategy](#conclusion-strategy)
+- [Conclusion and strategy](#conclusion-and-strategy)
 
 ![divvy](http://chi.streetsblog.org/wp-content/uploads/sites/4/2020/07/Divvy-Meet-The-Ebike_7.jpg)
 
